@@ -1,3 +1,7 @@
 NAME	ONIONv3	TYPE	SOURCE	TRUST	STATUS	LAST_CHECK	COMMENT
-oshi.at	http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion	Filehoster	https://oshi.at	VERIFIED	ONLINE	1644952459	Supports CLI via curl
-DuckDuckGo	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/	Search Engine	https://duckduckgo.com/?q=duckduckgo+tor&ia=answer	VERIFIED	ONLINE	1644952459	Efficient Search Engine
+oshi.at	http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion	Filehoster	https://oshi.at	VERIFIED	ONLINE	1644955200	Supports CLI via curl
+DuckDuckGo	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/	Search Engine	https://duckduckgo.com/?q=duckduckgo+tor&ia=answer	UNVERIFIED	ONLINE	1644955200	Efficient Search Engine
+DW News	https://dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/	Media	https://community.torproject.org/onion-services/	UNVERIFIED	ONLINE	1644955200	News Site
+Freedom of the Press Foundation	http://fpfjxcrmw437h6z2xl3w4czl55kvkmxpapg37bbopsafdu7q454byxid.onion/	Non-Profit	https://community.torproject.org/onion-services/	UNVERIFIED	ONLINE	1644955200	Press Freedom Advocacy Group
+RiseUp	http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/	Communication Platform	https://community.torproject.org/onion-services/	UNVERIFIED	ONLINE	1644955200	Provides Communication Infrastructure
+OnionShare	http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/	Software	https://onionshare.org/onion.txt	VERIFIED	ONLINE	1644955200	Easy-to-use Ffilesharing/Chat/Webhosting suite
